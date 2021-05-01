@@ -5,3 +5,7 @@ A Universal DirectX11 hook that supports resizing of the game window by hooking 
 How to use:
 Just make your mod menu using ImGui, build and rename output file to dxgi.dll, dinput8.dll or xinput1_3.dll and drop it next to your main exe.
 Open and close menu with right-ALT if you didn't already change that.
+
+
+This project based on work by:
+Rebzzel and Sh0ckFR
