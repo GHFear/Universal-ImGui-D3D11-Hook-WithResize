@@ -7,5 +7,5 @@ Just make your mod menu using ImGui, build and rename output file to dxgi.dll, d
 Open and close menu with right-ALT if you didn't already change that.
 
 
-This project based on work by:
+This project based on previous work by:
 Rebzzel and Sh0ckFR
