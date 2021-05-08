@@ -7,5 +7,11 @@ Just make your mod menu using ImGui, build and rename output file to dxgi.dll, d
 Open and close menu with right-ALT if you didn't already change that.
 
 
+Few things added for quality of life since 1.0:
+Added a timer tick rate that always polls the controlls 30 times a second for consistency. | Update 1.1
+FileDialog : Made by aiekick. | Update 1.2
+Updated ImGui to latest version. | Update 1.2
+
+
 This project is based on previous work by:
 Rebzzel and Sh0ckFR
